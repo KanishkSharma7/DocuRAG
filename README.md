@@ -1,5 +1,6 @@
 # DocuRAG - An intelligent document retrieval framework
-Here is the link to our project https://docs.google.com/document/d/1OPwcW68nX6oHPC0tTZNK4IeEwQEZnrusHZRxExFZkss/edit?tab=t.0#heading=h.3zm9f8g1ndd9
+
+Follow the steps below to setup the project and test it out!
 
 1. Open the directory you want the repo in and then clone the repository using the link 
 ```python
