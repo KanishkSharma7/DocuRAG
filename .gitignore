@@ -1,0 +1,17 @@
+/rocksdb
+/transformers
+/data
+/utils/_pycache_
+faiss_index_meta.idx
+index_to_key_meta.pkl
+meta_chunks.db
+faiss_index_contextual.idx
+index_to_key_contextual.pkl
+contextual_chunks.db
+python_magic_bin-0.4.14-py2.py3-none-win_amd64.whl
+chunks.db
+faiss_index.idx
+index_to_key.pkl
+faiss_index_late.idx
+index_to_key_late.pkl
+late_chunks.db
