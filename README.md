@@ -1,9 +1,9 @@
-# DPSFinalProj
+# DocuRAG - An intelligent document retrieval framework
 Here is the link to our project https://docs.google.com/document/d/1OPwcW68nX6oHPC0tTZNK4IeEwQEZnrusHZRxExFZkss/edit?tab=t.0#heading=h.3zm9f8g1ndd9
 
 1. Open the directory you want the repo in and then clone the repository using the link 
 ```python
-git clone https://github.com/Fall-24-CSE511-Data-Processing-at-Scale/Project-7-Group-14.git
+git clone https://github.com/KanishkSharma7/DocuRAG.git
 ```
 2. Open anaconda and run the following commands down below in the directory you have cloned the repository
 If you do not have anaconda download it from the link (https://docs.anaconda.com/anaconda/install/)
@@ -28,11 +28,7 @@ python build_vector_store.py
 ```python
 huggingface-cli login
 ```
-Once prompted to enter the token, enter
-```python
-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
-```
-Do not share the token with anyone
+Once prompted to enter the hugging face user access token, enter
 
 7. Once the data is ingested run the command down below to open our chatbot
 ```python
